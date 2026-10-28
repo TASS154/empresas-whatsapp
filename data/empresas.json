@@ -1,0 +1,323 @@
+{
+  "atribuicao": "Dados de mapa © colaboradores do OpenStreetMap, licença ODbL. Demais campos vieram de páginas públicas dos próprios estabelecimentos.",
+  "empresas": [
+    {
+      "nome": "Pet Care Hospital Veterinário Unidade Pacaembu",
+      "categoria": "Clínica veterinária",
+      "descricao": "O Hospital e Clínica Veterinária 24 horas Pet Care atende a urgências e emergências e conta estrutura completa para todas as especialidades. Agende aqui!",
+      "whatsapp": "+55 (11) 97450-1843",
+      "whatsapp_link": "https://wa.me/5511974501843",
+      "telefones": [
+        "+55 (11) 4305-9755",
+        "+55 (11) 4673-0049",
+        "+55 (11) 4673-0052",
+        "+55 (11) 4673-0058"
+      ],
+      "emails_publicos": [],
+      "site": "http://www.petcare.com.br",
+      "endereco": "Avenida Pacaembu 1839, São Paulo, 01234-001",
+      "cidade": "São Paulo",
+      "horario": "24/7",
+      "redes": {
+        "facebook": "https://www.facebook.com/hvpetcare",
+        "twitter": "https://twitter.com/hvpetcare",
+        "youtube": "https://www.youtube.com/user/HospVetPetCare",
+        "linkedin": "https://www.linkedin.com/company/pet-care-centro-veterin%C3%A1rio-24h/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.542138,
+        "lon": -46.664724
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.542138&mlon=-46.664724#map=17/-23.542138/-46.664724",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4582139392",
+      "fonte_site": "https://petcare.com.br/"
+    },
+    {
+      "nome": "DENT+ Niterói",
+      "categoria": "Dentista",
+      "descricao": "Clínica odontológica especializada em implantes, clareamento, alinhadores invisíveis, ortodontia, periodontia e próteses.",
+      "whatsapp": "+55 (21) 98222-6494",
+      "whatsapp_link": "https://wa.me/5521982226494",
+      "telefones": [
+        "+55 (21) 2601-1065"
+      ],
+      "emails_publicos": [
+        "contato@dentmais.com.br",
+        "privacidade@dentmais.com.br"
+      ],
+      "site": "https://dentmais.com.br/niteroi/",
+      "endereco": "Rua da Conceição 125, Centro, Niterói - RJ, 24020-085",
+      "cidade": "Niterói",
+      "horario": "seg-sex 09:00-18:00;  sáb 09:00-13:00",
+      "redes": {
+        "instagram": "https://www.instagram.com/dentmais/",
+        "facebook": "https://www.facebook.com/dentmais"
+      },
+      "acessibilidade": "yes",
+      "marca": "DENT+",
+      "coordenadas": {
+        "lat": -22.8942462,
+        "lon": -43.1202611
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.8942462&mlon=-43.1202611#map=17/-22.8942462/-43.1202611",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/13944218561",
+      "fonte_site": "https://dentmais.com.br/niteroi/"
+    },
+    {
+      "nome": "Copel Colchões",
+      "categoria": "Loja de colchões",
+      "descricao": "Compre Colchão, Cama Box, Cama Box com Colchão, Travesseiro e Muito Mais na Copel Colchões | Parcelamento em Até 10x Sem Juros | Entregas em Todo o Brasil | Confira!",
+      "whatsapp": "+55 (11) 97675-7821",
+      "whatsapp_link": "https://wa.me/5511976757821",
+      "telefones": [
+        "+55 (11) 5051-3756"
+      ],
+      "emails_publicos": [
+        "atendimento@copelcolchoes.com.br"
+      ],
+      "site": "http://www.copelcolchoes.com.br/",
+      "endereco": "Avenida Ibirapuera 2696, São Paulo - SP",
+      "cidade": "São Paulo",
+      "horario": "dom-sex 09:00-20:00;  sáb 09:00-19:00;  dom 10:00-19:00",
+      "redes": {
+        "facebook": "https://www.facebook.com/copelcolchoes/",
+        "instagram": "https://instagram.com/copelcolchoes/",
+        "youtube": "https://youtube.com/channel/user/CopelColchoes"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.6066797,
+        "lon": -46.6656308
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.6066797&mlon=-46.6656308#map=17/-23.6066797/-46.6656308",
+      "cnpj_publico": "59.704.817/0001-93",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4636403403",
+      "fonte_site": "https://www.copelcolchoes.com.br/"
+    },
+    {
+      "nome": "SunFlower Joias",
+      "categoria": "Joalheria",
+      "descricao": "Descubra a coleção de joias e acessórios da Sunflower. Peças com design exclusivo e de alta qualidade para brilhar em qualquer ocasião. Confira agora no site!",
+      "whatsapp": "+55 (11) 94772-6687",
+      "whatsapp_link": "https://wa.me/5511947726687",
+      "telefones": [
+        "+55 (11) 3107-3862",
+        "+55 (11) 94727-8178"
+      ],
+      "emails_publicos": [
+        "sunflowerjoias@hotmail.com",
+        "contato@sunflowerjoias.com.br"
+      ],
+      "site": "https://www.sunflowerjoias.com.br/",
+      "endereco": "Rua Quintino Bocaiuva 84 12ºA, São Paulo, 01004-010",
+      "cidade": "São Paulo",
+      "horario": "",
+      "redes": {
+        "instagram": "https://www.instagram.com/sunflowerjoias/",
+        "facebook": "https://www.facebook.com/sunflowerjoias"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5493794,
+        "lon": -46.6350616
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5493794&mlon=-46.6350616#map=17/-23.5493794/-46.6350616",
+      "cnpj_publico": "54.890.988/0001-30",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5222153404",
+      "fonte_site": "https://www.sunflowerjoias.com.br/"
+    },
+    {
+      "nome": "Central Cabos",
+      "categoria": "Eletrônicos",
+      "descricao": "Na Central Cabos você encontra milhares de produtos para sua casa e empresa com o melhor preço! Pague à vista no PIX com 5% de desconto. Parcele em até 6x e Receba no mesmo dia! Atendimento personalizado para empresas.",
+      "whatsapp": "+55 (11) 99929-3566",
+      "whatsapp_link": "https://wa.me/5511999293566",
+      "telefones": [
+        "+55 (11) 3331-0191"
+      ],
+      "emails_publicos": [
+        "vendas@centralcabos.com.br"
+      ],
+      "site": "http://www.centralcabos.com.br/",
+      "endereco": "Rua Aurora 154, São Paulo - SP, 01209-000",
+      "cidade": "São Paulo",
+      "horario": "",
+      "redes": {
+        "youtube": "https://www.youtube.com/channel/UCuCfMGZc09b8JCTM3F3PXzQ",
+        "instagram": "https://www.instagram.com/centralcabos/",
+        "facebook": "https://www.facebook.com/centralcabos/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.538546,
+        "lon": -46.6383546
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.538546&mlon=-46.6383546#map=17/-23.538546/-46.6383546",
+      "cnpj_publico": "08.626.431/0001-70",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4729495186",
+      "fonte_site": "https://www.centralcabos.com.br/"
+    },
+    {
+      "nome": "AL Web Studio",
+      "categoria": "Estúdio digital",
+      "descricao": "Plataformas Virtuais para Acervos, Museus e Exposições",
+      "whatsapp": "+55 (11) 96475-5876",
+      "whatsapp_link": "https://wa.me/5511964755876",
+      "telefones": [
+        "+55 (11) 4712-4146",
+        "+55 (11) 98725-5069"
+      ],
+      "emails_publicos": [
+        "plataformasvirtuais@gmail.com"
+      ],
+      "site": "http://www.acervosvirtuais.com.br/",
+      "endereco": "Rua Heliodora 340, São Paulo - SP",
+      "cidade": "São Paulo",
+      "horario": "",
+      "redes": {
+        "facebook": "https://facebook.com/PlataformasVirtuais",
+        "instagram": "https://www.instagram.com/PlataformasVirtuais"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.503237,
+        "lon": -46.6409666
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.503237&mlon=-46.6409666#map=17/-23.503237/-46.6409666",
+      "cnpj_publico": "21.063.627/0001-61",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4680230277",
+      "fonte_site": "https://www.acervosvirtuais.com.br/"
+    },
+    {
+      "nome": "Kauai Studio",
+      "categoria": "Estúdio de tatuagem",
+      "descricao": "Kauai Studio – Micro Pigmentação Capilar – Micro pigmentação Capilar",
+      "whatsapp": "+55 (11) 99272-2453",
+      "whatsapp_link": "https://wa.me/5511992722453",
+      "telefones": [
+        "+55 (11) 3739-1342",
+        "+55 (11) 2307-1256"
+      ],
+      "emails_publicos": [
+        "contato@kauaistudio.com.br"
+      ],
+      "site": "https://kauaistudio.com.br/",
+      "endereco": "Rua Pirajuçara 441",
+      "cidade": "",
+      "horario": "seg-sex 10:00-20:00",
+      "redes": {
+        "facebook": "https://www.facebook.com/kauaistudio",
+        "instagram": "https://www.instagram.com/clinicakauaistudiodermo/",
+        "youtube": "https://www.youtube.com/channel/UCmbU66sAYKAJ45ltyH56qEQ"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5712502,
+        "lon": -46.7071852
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5712502&mlon=-46.7071852#map=17/-23.5712502/-46.7071852",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5553490839",
+      "fonte_site": "https://kauaistudiodermo.com.br/"
+    },
+    {
+      "nome": "Green",
+      "categoria": "Restaurante",
+      "descricao": "Green Restaurante – Restaurante vegetariano",
+      "whatsapp": "+55 (21) 97510-5241",
+      "whatsapp_link": "https://wa.me/5521975105241",
+      "telefones": [
+        "+55 (21) 2252-5356"
+      ],
+      "emails_publicos": [
+        "green@greenrestaurante.com.br"
+      ],
+      "site": "http://www.greenrestaurante.com.br/",
+      "endereco": "Rua do Carmo 38, Centro, Rio de Janeiro",
+      "cidade": "Rio de Janeiro",
+      "horario": "seg-sáb 11:00-15:30",
+      "redes": {
+        "instagram": "https://www.instagram.com/greenrestaurantevegetariano/",
+        "facebook": "https://www.facebook.com/restaurantegreen/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -22.9034923,
+        "lon": -43.1758567
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.9034923&mlon=-43.1758567#map=17/-22.9034923/-43.1758567",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/635780725",
+      "fonte_site": "http://www.greenrestaurante.com.br/"
+    },
+    {
+      "nome": "San Michel Hotel",
+      "categoria": "Hotel",
+      "descricao": "Bem-vindo! Hotel no Centro de São Paulo com o melhor custo-benefício. O hotel econômico San Michel está convenientemente localizado perto do centro de São Paulo, vizinho de muro de um prédio de policia com 15 delegacias. Com arquitetura moderna, estrutura intimista, apartamentos amplos, ótimo café da manhã qualidade nos serviços, este Hotel é a sua […]",
+      "whatsapp": "+55 (11) 95743-7160",
+      "whatsapp_link": "https://wa.me/5511957437160",
+      "telefones": [
+        "+55 (11) 3224-1420"
+      ],
+      "emails_publicos": [
+        "reservas@sanmichelhotel.com.br"
+      ],
+      "site": "http://sanmichelhotel.com.br",
+      "endereco": "Largo do Arouche 200, São Paulo, 01219-010",
+      "cidade": "São Paulo",
+      "horario": "",
+      "redes": {
+        "instagram": "https://instagram.com/hotelsanmichel",
+        "facebook": "https://www.facebook.com/pages/San-Michel-Hotel/156818437849161"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5398295,
+        "lon": -46.6451356
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5398295&mlon=-46.6451356#map=17/-23.5398295/-46.6451356",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/2892485239",
+      "fonte_site": "https://sanmichelhotel.com.br/"
+    },
+    {
+      "nome": "Dona Vegana",
+      "categoria": "Restaurante (brasileira, internacional)",
+      "descricao": "",
+      "whatsapp": "+55 (21) 95907-6201",
+      "whatsapp_link": "https://wa.me/5521959076201",
+      "telefones": [
+        "+55 (21) 2223-0303"
+      ],
+      "emails_publicos": [],
+      "site": "http://www.donavegana.com.br/",
+      "endereco": "Avenida Marechal Floriano 13, Centro, Rio de Janeiro",
+      "cidade": "Rio de Janeiro",
+      "horario": "seg-sex 08:00-18:00",
+      "redes": {
+        "facebook": "https://www.facebook.com/DonaVegana/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -22.9006709,
+        "lon": -43.1813827
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.9006709&mlon=-43.1813827#map=17/-22.9006709/-43.1813827",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6418705088",
+      "fonte_site": "site indisponível nesta coleta"
+    }
+  ]
+}
