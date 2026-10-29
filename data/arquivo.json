@@ -1,0 +1,2855 @@
+{
+  "atribuicao": "Dados de mapa © colaboradores do OpenStreetMap, licença ODbL. Demais campos vieram de páginas públicas dos próprios estabelecimentos.",
+  "empresas": [
+    {
+      "nome": "Pet Care Hospital Veterinário Unidade Pacaembu",
+      "categoria": "Clínica veterinária",
+      "descricao": "O Hospital e Clínica Veterinária 24 horas Pet Care atende a urgências e emergências e conta estrutura completa para todas as especialidades. Agende aqui!",
+      "whatsapp": "+55 (11) 97450-1843",
+      "whatsapp_link": "https://wa.me/5511974501843",
+      "telefones": [
+        "+55 (11) 4305-9755",
+        "+55 (11) 4673-0049",
+        "+55 (11) 4673-0052",
+        "+55 (11) 4673-0058"
+      ],
+      "emails_publicos": [],
+      "site": "http://www.petcare.com.br",
+      "endereco": "Avenida Pacaembu 1839, São Paulo, 01234-001",
+      "cidade": "São Paulo",
+      "horario": "24/7",
+      "redes": {
+        "facebook": "https://www.facebook.com/hvpetcare",
+        "twitter": "https://twitter.com/hvpetcare",
+        "youtube": "https://www.youtube.com/user/HospVetPetCare",
+        "linkedin": "https://www.linkedin.com/company/pet-care-centro-veterin%C3%A1rio-24h/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.542138,
+        "lon": -46.664724
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.542138&mlon=-46.664724#map=17/-23.542138/-46.664724",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4582139392",
+      "fonte_site": "https://petcare.com.br/"
+    },
+    {
+      "nome": "DENT+ Niterói",
+      "categoria": "Dentista",
+      "descricao": "Clínica odontológica especializada em implantes, clareamento, alinhadores invisíveis, ortodontia, periodontia e próteses.",
+      "whatsapp": "+55 (21) 98222-6494",
+      "whatsapp_link": "https://wa.me/5521982226494",
+      "telefones": [
+        "+55 (21) 2601-1065"
+      ],
+      "emails_publicos": [
+        "contato@dentmais.com.br",
+        "privacidade@dentmais.com.br"
+      ],
+      "site": "https://dentmais.com.br/niteroi/",
+      "endereco": "Rua da Conceição 125, Centro, Niterói - RJ, 24020-085",
+      "cidade": "Niterói",
+      "horario": "seg-sex 09:00-18:00;  sáb 09:00-13:00",
+      "redes": {
+        "instagram": "https://www.instagram.com/dentmais/",
+        "facebook": "https://www.facebook.com/dentmais"
+      },
+      "acessibilidade": "yes",
+      "marca": "DENT+",
+      "coordenadas": {
+        "lat": -22.8942462,
+        "lon": -43.1202611
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.8942462&mlon=-43.1202611#map=17/-22.8942462/-43.1202611",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/13944218561",
+      "fonte_site": "https://dentmais.com.br/niteroi/"
+    },
+    {
+      "nome": "Copel Colchões",
+      "categoria": "Loja de colchões",
+      "descricao": "Compre Colchão, Cama Box, Cama Box com Colchão, Travesseiro e Muito Mais na Copel Colchões | Parcelamento em Até 10x Sem Juros | Entregas em Todo o Brasil | Confira!",
+      "whatsapp": "+55 (11) 97675-7821",
+      "whatsapp_link": "https://wa.me/5511976757821",
+      "telefones": [
+        "+55 (11) 5051-3756"
+      ],
+      "emails_publicos": [
+        "atendimento@copelcolchoes.com.br"
+      ],
+      "site": "http://www.copelcolchoes.com.br/",
+      "endereco": "Avenida Ibirapuera 2696, São Paulo - SP",
+      "cidade": "São Paulo",
+      "horario": "dom-sex 09:00-20:00;  sáb 09:00-19:00;  dom 10:00-19:00",
+      "redes": {
+        "facebook": "https://www.facebook.com/copelcolchoes/",
+        "instagram": "https://instagram.com/copelcolchoes/",
+        "youtube": "https://youtube.com/channel/user/CopelColchoes"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.6066797,
+        "lon": -46.6656308
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.6066797&mlon=-46.6656308#map=17/-23.6066797/-46.6656308",
+      "cnpj_publico": "59.704.817/0001-93",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4636403403",
+      "fonte_site": "https://www.copelcolchoes.com.br/"
+    },
+    {
+      "nome": "SunFlower Joias",
+      "categoria": "Joalheria",
+      "descricao": "Descubra a coleção de joias e acessórios da Sunflower. Peças com design exclusivo e de alta qualidade para brilhar em qualquer ocasião. Confira agora no site!",
+      "whatsapp": "+55 (11) 94772-6687",
+      "whatsapp_link": "https://wa.me/5511947726687",
+      "telefones": [
+        "+55 (11) 3107-3862",
+        "+55 (11) 94727-8178"
+      ],
+      "emails_publicos": [
+        "sunflowerjoias@hotmail.com",
+        "contato@sunflowerjoias.com.br"
+      ],
+      "site": "https://www.sunflowerjoias.com.br/",
+      "endereco": "Rua Quintino Bocaiuva 84 12ºA, São Paulo, 01004-010",
+      "cidade": "São Paulo",
+      "horario": "",
+      "redes": {
+        "instagram": "https://www.instagram.com/sunflowerjoias/",
+        "facebook": "https://www.facebook.com/sunflowerjoias"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5493794,
+        "lon": -46.6350616
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5493794&mlon=-46.6350616#map=17/-23.5493794/-46.6350616",
+      "cnpj_publico": "54.890.988/0001-30",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5222153404",
+      "fonte_site": "https://www.sunflowerjoias.com.br/"
+    },
+    {
+      "nome": "Central Cabos",
+      "categoria": "Eletrônicos",
+      "descricao": "Na Central Cabos você encontra milhares de produtos para sua casa e empresa com o melhor preço! Pague à vista no PIX com 5% de desconto. Parcele em até 6x e Receba no mesmo dia! Atendimento personalizado para empresas.",
+      "whatsapp": "+55 (11) 99929-3566",
+      "whatsapp_link": "https://wa.me/5511999293566",
+      "telefones": [
+        "+55 (11) 3331-0191"
+      ],
+      "emails_publicos": [
+        "vendas@centralcabos.com.br"
+      ],
+      "site": "http://www.centralcabos.com.br/",
+      "endereco": "Rua Aurora 154, São Paulo - SP, 01209-000",
+      "cidade": "São Paulo",
+      "horario": "",
+      "redes": {
+        "youtube": "https://www.youtube.com/channel/UCuCfMGZc09b8JCTM3F3PXzQ",
+        "instagram": "https://www.instagram.com/centralcabos/",
+        "facebook": "https://www.facebook.com/centralcabos/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.538546,
+        "lon": -46.6383546
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.538546&mlon=-46.6383546#map=17/-23.538546/-46.6383546",
+      "cnpj_publico": "08.626.431/0001-70",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4729495186",
+      "fonte_site": "https://www.centralcabos.com.br/"
+    },
+    {
+      "nome": "AL Web Studio",
+      "categoria": "Estúdio digital",
+      "descricao": "Plataformas Virtuais para Acervos, Museus e Exposições",
+      "whatsapp": "+55 (11) 96475-5876",
+      "whatsapp_link": "https://wa.me/5511964755876",
+      "telefones": [
+        "+55 (11) 4712-4146",
+        "+55 (11) 98725-5069"
+      ],
+      "emails_publicos": [
+        "plataformasvirtuais@gmail.com"
+      ],
+      "site": "http://www.acervosvirtuais.com.br/",
+      "endereco": "Rua Heliodora 340, São Paulo - SP",
+      "cidade": "São Paulo",
+      "horario": "",
+      "redes": {
+        "facebook": "https://facebook.com/PlataformasVirtuais",
+        "instagram": "https://www.instagram.com/PlataformasVirtuais"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.503237,
+        "lon": -46.6409666
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.503237&mlon=-46.6409666#map=17/-23.503237/-46.6409666",
+      "cnpj_publico": "21.063.627/0001-61",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4680230277",
+      "fonte_site": "https://www.acervosvirtuais.com.br/"
+    },
+    {
+      "nome": "Kauai Studio",
+      "categoria": "Estúdio de tatuagem",
+      "descricao": "Kauai Studio – Micro Pigmentação Capilar – Micro pigmentação Capilar",
+      "whatsapp": "+55 (11) 99272-2453",
+      "whatsapp_link": "https://wa.me/5511992722453",
+      "telefones": [
+        "+55 (11) 3739-1342",
+        "+55 (11) 2307-1256"
+      ],
+      "emails_publicos": [
+        "contato@kauaistudio.com.br"
+      ],
+      "site": "https://kauaistudio.com.br/",
+      "endereco": "Rua Pirajuçara 441",
+      "cidade": "",
+      "horario": "seg-sex 10:00-20:00",
+      "redes": {
+        "facebook": "https://www.facebook.com/kauaistudio",
+        "instagram": "https://www.instagram.com/clinicakauaistudiodermo/",
+        "youtube": "https://www.youtube.com/channel/UCmbU66sAYKAJ45ltyH56qEQ"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5712502,
+        "lon": -46.7071852
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5712502&mlon=-46.7071852#map=17/-23.5712502/-46.7071852",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5553490839",
+      "fonte_site": "https://kauaistudiodermo.com.br/"
+    },
+    {
+      "nome": "Green",
+      "categoria": "Restaurante",
+      "descricao": "Green Restaurante – Restaurante vegetariano",
+      "whatsapp": "+55 (21) 97510-5241",
+      "whatsapp_link": "https://wa.me/5521975105241",
+      "telefones": [
+        "+55 (21) 2252-5356"
+      ],
+      "emails_publicos": [
+        "green@greenrestaurante.com.br"
+      ],
+      "site": "http://www.greenrestaurante.com.br/",
+      "endereco": "Rua do Carmo 38, Centro, Rio de Janeiro",
+      "cidade": "Rio de Janeiro",
+      "horario": "seg-sáb 11:00-15:30",
+      "redes": {
+        "instagram": "https://www.instagram.com/greenrestaurantevegetariano/",
+        "facebook": "https://www.facebook.com/restaurantegreen/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -22.9034923,
+        "lon": -43.1758567
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.9034923&mlon=-43.1758567#map=17/-22.9034923/-43.1758567",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/635780725",
+      "fonte_site": "http://www.greenrestaurante.com.br/"
+    },
+    {
+      "nome": "San Michel Hotel",
+      "categoria": "Hotel",
+      "descricao": "Bem-vindo! Hotel no Centro de São Paulo com o melhor custo-benefício. O hotel econômico San Michel está convenientemente localizado perto do centro de São Paulo, vizinho de muro de um prédio de policia com 15 delegacias. Com arquitetura moderna, estrutura intimista, apartamentos amplos, ótimo café da manhã qualidade nos serviços, este Hotel é a sua […]",
+      "whatsapp": "+55 (11) 95743-7160",
+      "whatsapp_link": "https://wa.me/5511957437160",
+      "telefones": [
+        "+55 (11) 3224-1420"
+      ],
+      "emails_publicos": [
+        "reservas@sanmichelhotel.com.br"
+      ],
+      "site": "http://sanmichelhotel.com.br",
+      "endereco": "Largo do Arouche 200, São Paulo, 01219-010",
+      "cidade": "São Paulo",
+      "horario": "",
+      "redes": {
+        "instagram": "https://instagram.com/hotelsanmichel",
+        "facebook": "https://www.facebook.com/pages/San-Michel-Hotel/156818437849161"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5398295,
+        "lon": -46.6451356
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5398295&mlon=-46.6451356#map=17/-23.5398295/-46.6451356",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/2892485239",
+      "fonte_site": "https://sanmichelhotel.com.br/"
+    },
+    {
+      "nome": "Dona Vegana",
+      "categoria": "Restaurante (brasileira, internacional)",
+      "descricao": "",
+      "whatsapp": "+55 (21) 95907-6201",
+      "whatsapp_link": "https://wa.me/5521959076201",
+      "telefones": [
+        "+55 (21) 2223-0303"
+      ],
+      "emails_publicos": [],
+      "site": "http://www.donavegana.com.br/",
+      "endereco": "Avenida Marechal Floriano 13, Centro, Rio de Janeiro",
+      "cidade": "Rio de Janeiro",
+      "horario": "seg-sex 08:00-18:00",
+      "redes": {
+        "facebook": "https://www.facebook.com/DonaVegana/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -22.9006709,
+        "lon": -43.1813827
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.9006709&mlon=-43.1813827#map=17/-22.9006709/-43.1813827",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6418705088",
+      "fonte_site": "site indisponível nesta coleta"
+    },
+    {
+      "nome": "Mafesmel",
+      "categoria": "Loja de roupas",
+      "descricao": "",
+      "whatsapp": "+55 (11) 98479-3786",
+      "whatsapp_link": "https://wa.me/5511984793786",
+      "telefones": [
+        "+55 (11) 2692-3913"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Doutor Carlos Botelho 322, São Paulo, 03017-010",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5383496,
+        "lon": -46.608687
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5383496&mlon=-46.608687#map=17/-23.5383496/-46.608687",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4725980665",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Omnilife",
+      "categoria": "Loja de roupas",
+      "descricao": "",
+      "whatsapp": "+55 (11) 97024-1222",
+      "whatsapp_link": "https://wa.me/5511970241222",
+      "telefones": [
+        "+55 (11) 2081-2461"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Doutor Carlos Botelho 332, São Paulo, 03017-010",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5383247,
+        "lon": -46.6085903
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5383247&mlon=-46.6085903#map=17/-23.5383247/-46.6085903",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4725980668",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Chang.Eu",
+      "categoria": "Loja de roupas",
+      "descricao": "",
+      "whatsapp": "+55 (11) 98166-3569",
+      "whatsapp_link": "https://wa.me/5511981663569",
+      "telefones": [
+        "+55 (11) 94512-2121"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Barão de Ladário 759, São Paulo, 03010-000",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5352624,
+        "lon": -46.6190363
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5352624&mlon=-46.6190363#map=17/-23.5352624/-46.6190363",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4747121354",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Hera Veggie",
+      "categoria": "Padaria",
+      "descricao": "",
+      "whatsapp": "+55 (11) 96595-0110",
+      "whatsapp_link": "https://wa.me/5511965950110",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Fernando de Albuquerque 93, São Paulo, 01309-030",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "ter-sex 09:00-19:00; sáb 09:00-17:00; dom 10:00-14:00",
+      "redes": {
+        "instagram": "https://www.instagram.com/heraveggie/",
+        "facebook": "https://www.facebook.com/heraveggie"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5543714,
+        "lon": -46.6574591
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5543714&mlon=-46.6574591#map=17/-23.5543714/-46.6574591",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4992752338",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "GP Joias",
+      "categoria": "Joalheria",
+      "descricao": "",
+      "whatsapp": "+55 (11) 98444-3790",
+      "whatsapp_link": "https://wa.me/5511984443790",
+      "telefones": [
+        "+55 (11) 3242-5306"
+      ],
+      "emails_publicos": [
+        "gp@gpjoias.com.br"
+      ],
+      "site": "http://www.gpjoias.com.br",
+      "endereco": "Rua Barão de Paranapiacaba 73 L42, São Paulo, 01004-000",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5495912,
+        "lon": -46.6346829
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5495912&mlon=-46.6346829#map=17/-23.5495912/-46.6346829",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5222153403",
+      "fonte_site": "site indisponível nesta coleta",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Bestié",
+      "categoria": "Loja de roupas",
+      "descricao": "",
+      "whatsapp": "+55 (11) 97259-5732",
+      "whatsapp_link": "https://wa.me/5511972595732",
+      "telefones": [
+        "+55 (11) 2081-1741"
+      ],
+      "emails_publicos": [
+        "so7498@gmail.com"
+      ],
+      "site": "",
+      "endereco": "Rua Silva Teles 506, São Paulo, 03026-000",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5327672,
+        "lon": -46.6131527
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5327672&mlon=-46.6131527#map=17/-23.5327672/-46.6131527",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5282368129",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Essência Fashion",
+      "categoria": "Loja de roupas",
+      "descricao": "",
+      "whatsapp": "+55 (11) 95219-4963",
+      "whatsapp_link": "https://wa.me/5511952194963",
+      "telefones": [
+        "+55 (11) 96053-5109"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Avenida Vautier 320, São Paulo, 03032-000",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5322863,
+        "lon": -46.6214091
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5322863&mlon=-46.6214091#map=17/-23.5322863/-46.6214091",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5359280905",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Villa 151",
+      "categoria": "Restaurante (italian, pizza)",
+      "descricao": "",
+      "whatsapp": "+55 (11) 91313-3252",
+      "whatsapp_link": "https://wa.me/5511913133252",
+      "telefones": [
+        "+55 (11) 2893-0094"
+      ],
+      "emails_publicos": [],
+      "site": "https://www.villa151.com.br/",
+      "endereco": "Rua José do Patrocínio 151, São Paulo - São Paulo, 04108-000",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "qua-dom 11:00-14:00, 19:00-22:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5773327,
+        "lon": -46.6333312
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5773327&mlon=-46.6333312#map=17/-23.5773327/-46.6333312",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5694144811",
+      "fonte_site": "site indisponível nesta coleta",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "37'Love Moda Feminina",
+      "categoria": "Loja de roupas",
+      "descricao": "",
+      "whatsapp": "+55 (11) 95923-3069",
+      "whatsapp_link": "https://wa.me/5511959233069",
+      "telefones": [
+        "+55 (11) 2308-5528"
+      ],
+      "emails_publicos": [
+        "emmaliu645@gmail.com"
+      ],
+      "site": "",
+      "endereco": "Rua Rodrigues dos Santos 790, São Paulo, 03009-010",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5333317,
+        "lon": -46.6192364
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5333317&mlon=-46.6192364#map=17/-23.5333317/-46.6192364",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5805238030",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Fratelli Basilico",
+      "categoria": "Restaurante (pizza)",
+      "descricao": "",
+      "whatsapp": "+55 (11) 99892-2757",
+      "whatsapp_link": "https://wa.me/5511998922757",
+      "telefones": [
+        "+55 (11) 5041-2757"
+      ],
+      "emails_publicos": [],
+      "site": "https://fratellibasilico.com.br/",
+      "endereco": "Avenida Portugal 1695",
+      "cidade": "",
+      "estado": "",
+      "horario": "18:00-23:00; sex-sáb 18:00-00:30; seg fechado",
+      "redes": {
+        "facebook": "https://www.facebook.com/fratellibasilico/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.621843,
+        "lon": -46.687493
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.621843&mlon=-46.687493#map=17/-23.621843/-46.687493",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5980471068",
+      "fonte_site": "site indisponível nesta coleta",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Parise Gourmet",
+      "categoria": "Café",
+      "descricao": "",
+      "whatsapp": "+55 (11) 95300-5286",
+      "whatsapp_link": "https://wa.me/5511953005286",
+      "telefones": [
+        "+55 (11) 5041-5229"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Indiana 929, São Paulo",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "10:30-18:00; sáb 10:30-16:00; dom fechado",
+      "redes": {
+        "instagram": "https://www.instagram.com/parisegourmet/",
+        "facebook": "https://www.facebook.com/parisegourmet/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.6093414,
+        "lon": -46.6862708
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.6093414&mlon=-46.6862708#map=17/-23.6093414/-46.6862708",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5980471073",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Sarina Tattoo",
+      "categoria": "Estúdio de tatuagem",
+      "descricao": "",
+      "whatsapp": "+55 (11) 96396-6972",
+      "whatsapp_link": "https://wa.me/5511963966972",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.4651935,
+        "lon": -46.6793238
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.4651935&mlon=-46.6793238#map=17/-23.4651935/-46.6793238",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6333125668",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Loreto",
+      "categoria": "Key cutter",
+      "descricao": "",
+      "whatsapp": "+55 (11) 94478-1407",
+      "whatsapp_link": "https://wa.me/5511944781407",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Avenida Nossa Senhora do Loreto 1034, São Paulo, 02219-001",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "24/7",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.487106,
+        "lon": -46.5820878
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.487106&mlon=-46.5820878#map=17/-23.487106/-46.5820878",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6533892342",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Zeus S/A Escadas Telescopicas",
+      "categoria": "Doityourself",
+      "descricao": "Linha Ortopédica consulte nosso site",
+      "whatsapp": "+55 (11) 98180-9733",
+      "whatsapp_link": "https://wa.me/5511981809733",
+      "telefones": [
+        "+55 (11) 2291-8111"
+      ],
+      "emails_publicos": [
+        "vendas@zeus.ind.br"
+      ],
+      "site": "https://www.zeus.ind.br/",
+      "endereco": "Rua Visconde de Parnaíba 2299, São Paulo, 03045-002",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5444085,
+        "lon": -46.604883
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5444085&mlon=-46.604883#map=17/-23.5444085/-46.604883",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6606251409",
+      "fonte_site": "https://www.zeus.ind.br/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 1
+    },
+    {
+      "nome": "Ristorantino",
+      "categoria": "Restaurante (italian)",
+      "descricao": "Ristorantino Jardins – Gruppo Trevisani",
+      "whatsapp": "+55 (11) 97096-1234",
+      "whatsapp_link": "https://wa.me/5511970961234",
+      "telefones": [
+        "+55 (11) 3063-0977"
+      ],
+      "emails_publicos": [
+        "contato@ristorantino.com.br",
+        "milton@ristorantino.com.br"
+      ],
+      "site": "https://www.ristorantino.com.br/",
+      "endereco": "Rua Melo Alves 674, São Paulo, 01417-010",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {
+        "instagram": "https://www.instagram.com/ristorantino_/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5626535,
+        "lon": -46.6723202
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5626535&mlon=-46.6723202#map=17/-23.5626535/-46.6723202",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6628695265",
+      "fonte_site": "https://gruppotrevisani.com.br/casas/ristorantino-jardins/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 1
+    },
+    {
+      "nome": "Republic Pub",
+      "categoria": "Bar",
+      "descricao": "O Republic Pub publica guias de conteúdo geral sobre automóveis, negócios, tecnologia, casa e decoração, cozinha, beleza e bem-estar, esporte e saúde.",
+      "whatsapp": "+55 (11) 96915-9591",
+      "whatsapp_link": "https://wa.me/5511969159591",
+      "telefones": [
+        "+55 (11) 3814-5581",
+        "+55 (11) 3814-7493",
+        "+55 (11) 3816-4569"
+      ],
+      "emails_publicos": [
+        "contato@republicpub.com.br"
+      ],
+      "site": "https://www.republicpub.com.br/",
+      "endereco": "Rua Delfina 110, São Paulo, 05443-010",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "qua 18:00-24:00; qui 18:00-01:00; sex 18:00-02:30; sáb 18:00-03:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5543558,
+        "lon": -46.6937635
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5543558&mlon=-46.6937635#map=17/-23.5543558/-46.6937635",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6695152903",
+      "fonte_site": "https://republicpub.com.br/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 1
+    },
+    {
+      "nome": "Artesana",
+      "categoria": "Ferragens",
+      "descricao": "Forros, divisórias e materiais para drywall com os melhores preços. Compre online na Artesana e receba rápido em todo o Brasil.",
+      "whatsapp": "+55 (11) 99289-4293",
+      "whatsapp_link": "https://wa.me/5511992894293",
+      "telefones": [
+        "+55 (11) 2797-7444"
+      ],
+      "emails_publicos": [],
+      "site": "https://www.artesana.com.br/",
+      "endereco": "Rua Manuel Ramos Paiva 487, São Paulo, 03021-060",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {
+        "facebook": "https://www.facebook.com/artesana.divisorias.forros/",
+        "instagram": "https://www.instagram.com/artesanadrywall/",
+        "youtube": "https://www.youtube.com/@ArtesanaTV"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5295185,
+        "lon": -46.6002877
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5295185&mlon=-46.6002877#map=17/-23.5295185/-46.6002877",
+      "cnpj_publico": "55.010.060/0013-10",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6736042180",
+      "fonte_site": "https://www.artesana.com.br/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 1
+    },
+    {
+      "nome": "Jubiabá",
+      "categoria": "Stationery",
+      "descricao": "",
+      "whatsapp": "+55 (11) 99359-9027",
+      "whatsapp_link": "https://wa.me/5511993599027",
+      "telefones": [
+        "+55 (11) 2276-6975"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Avenida Jabaquara 1459, São Paulo, 04045-002",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.6169251,
+        "lon": -46.6386945
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.6169251&mlon=-46.6386945#map=17/-23.6169251/-46.6386945",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/7191321037",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Auto Capas New Tapeçaria Automotiva",
+      "categoria": "Carpet",
+      "descricao": "",
+      "whatsapp": "+55 (11) 96688-3992",
+      "whatsapp_link": "https://wa.me/5511966883992",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Avenida Ede 600, São Paulo, 02203-001",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.4942448,
+        "lon": -46.5918902
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.4942448&mlon=-46.5918902#map=17/-23.4942448/-46.5918902",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/7549293652",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Beleza Pura Hair Cabeleireiras",
+      "categoria": "Estética",
+      "descricao": "",
+      "whatsapp": "+55 (11) 97596-5809",
+      "whatsapp_link": "https://wa.me/5511975965809",
+      "telefones": [
+        "+55 (11) 2931-6608"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Padre Sabóia de Medeiros 1354, São Paulo, 02134-001",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "seg-sáb 09:00-19:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.4966345,
+        "lon": -46.5795659
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.4966345&mlon=-46.5795659#map=17/-23.4966345/-46.5795659",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/7817841212",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Beleclin",
+      "categoria": "Consultório",
+      "descricao": "",
+      "whatsapp": "+55 (11) 95343-8962",
+      "whatsapp_link": "https://wa.me/5511953438962",
+      "telefones": [
+        "+55 (11) 5061-4930"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Vigário Albernaz 683, Vila Gumercindo, São Paulo, 04134-021",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.6066178,
+        "lon": -46.6216548
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.6066178&mlon=-46.6216548#map=17/-23.6066178/-46.6216548",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/8415151129",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Retifica Motor-Vidro",
+      "categoria": "Oficina",
+      "descricao": "Entre em contato conosco e envie sua mensagem ou solicitação de orçamento, nossa equipe entrará em contato assim que possível para atendê-lo.",
+      "whatsapp": "+55 (11) 99972-3072",
+      "whatsapp_link": "https://wa.me/5511999723072",
+      "telefones": [
+        "+55 (11) 2954-3377",
+        "+55 (11) 2632-3377"
+      ],
+      "emails_publicos": [
+        "contato@retifica.com.br"
+      ],
+      "site": "https://www.retifica.com.br/contato",
+      "endereco": "Rua Curuçá 1281, São Paulo, 02120-002",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {
+        "facebook": "https://www.facebook.com/motorvidro",
+        "instagram": "https://www.instagram.com/motorvidro/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5165374,
+        "lon": -46.5846567
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5165374&mlon=-46.5846567#map=17/-23.5165374/-46.5846567",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/8762650125",
+      "fonte_site": "https://www.retifica.com.br/contato",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 1
+    },
+    {
+      "nome": "Novo Rumo Parafusos",
+      "categoria": "Doityourself",
+      "descricao": "A Novo Rumo é uma distribuidora de parafusos e ferragens há 17 anos, localizada no bairro Jd Japão, Zona Norte de São Paulo, que vem crescendo e b...",
+      "whatsapp": "+55 (11) 99991-3158",
+      "whatsapp_link": "https://wa.me/5511999913158",
+      "telefones": [
+        "+55 (11) 2954-4803"
+      ],
+      "emails_publicos": [
+        "contato@novorumoparafusos.com.br"
+      ],
+      "site": "https://www.novorumoparafusos.com.br/",
+      "endereco": "Rua Diamantina 585, Vila Maria, São Paulo, 02117-011",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "seg-sáb 08:00-12:00",
+      "redes": {
+        "facebook": "https://facebook.com/novorumoparafusos",
+        "instagram": "https://instagram.com/novorumoparafusos"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5203651,
+        "lon": -46.590265
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5203651&mlon=-46.590265#map=17/-23.5203651/-46.590265",
+      "cnpj_publico": "08.487.226/0001-70",
+      "fonte_mapa": "https://www.openstreetmap.org/node/8836056361",
+      "fonte_site": "https://www.novorumoparafusos.com.br/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 1
+    },
+    {
+      "nome": "Pinta Mundi",
+      "categoria": "Paint",
+      "descricao": "Vai Pintar? Pinta Mundi Tintas – A sua loja de tintas completa na internet. De tintas à acessórios, a solução completa para sua pintura!",
+      "whatsapp": "+55 (11) 99233-4574",
+      "whatsapp_link": "https://wa.me/5511992334574",
+      "telefones": [],
+      "emails_publicos": [
+        "contato@pintamundi.com.br"
+      ],
+      "site": "https://pintamundi.com.br/",
+      "endereco": "Avenida Nova Cantareira 633, Tucuruvi, São Paulo, 02331-000",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {
+        "linkedin": "https://www.linkedin.com/company/pintamunditintas",
+        "instagram": "https://www.instagram.com/pintamunditintas_oficial/",
+        "facebook": "https://pt-br.facebook.com/pintamunditintas/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.4864683,
+        "lon": -46.6194763
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.4864683&mlon=-46.6194763#map=17/-23.4864683/-46.6194763",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/9155657010",
+      "fonte_site": "https://pintamundi.com.br/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 1
+    },
+    {
+      "nome": "Dulche Cafeteria Argentina",
+      "categoria": "Café (argentinian)",
+      "descricao": "",
+      "whatsapp": "+55 (11) 99312-3630",
+      "whatsapp_link": "https://wa.me/5511993123630",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "https://www.ifood.com.br/delivery/sao-paulo-sp/dulche-cafeteria-argentina-vila-mariana-vila-mariana/",
+      "endereco": "Rua Paula Ney 338, São Paulo",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "sáb, dom 10:00-18:00; seg-sex 08:10-21:00",
+      "redes": {
+        "instagram": "https://www.instagram.com/dulchecafeteria"
+      },
+      "acessibilidade": "no",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5781439,
+        "lon": -46.635193
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5781439&mlon=-46.635193#map=17/-23.5781439/-46.635193",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/10992121083",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Hotel Columbia",
+      "categoria": "Hotel",
+      "descricao": "",
+      "whatsapp": "+55 (11) 99402-1178",
+      "whatsapp_link": "https://wa.me/5511994021178",
+      "telefones": [
+        "+55 (11) 3331-3411"
+      ],
+      "emails_publicos": [
+        "contato@hotelcolumbia.com.br"
+      ],
+      "site": "https://www.hotelcolumbia.com.br/",
+      "endereco": "Rua dos Timbiras 492",
+      "cidade": "",
+      "estado": "",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5413225,
+        "lon": -46.6405623
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5413225&mlon=-46.6405623#map=17/-23.5413225/-46.6405623",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/11079535078",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Seu Cubas",
+      "categoria": "Bar",
+      "descricao": "",
+      "whatsapp": "+55 (11) 98191-5521",
+      "whatsapp_link": "https://wa.me/5511981915521",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Braz Cubas 356, São Paulo",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5766788,
+        "lon": -46.6310111
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5766788&mlon=-46.6310111#map=17/-23.5766788/-46.6310111",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/11146601551",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Preciosa Curadoria",
+      "categoria": "Cheese",
+      "descricao": "",
+      "whatsapp": "+55 (11) 5587-5104",
+      "whatsapp_link": "https://wa.me/551155875104",
+      "telefones": [
+        "+55 (11) 5589-1653"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua das Camélias 21, Mirandópolis, São Paulo, 04048-060",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "ter-qui 10:00-18:00; sex 10:00-19:00; sáb 09:30-17:00; dom, seg fechado",
+      "redes": {
+        "instagram": "https://www.instagram.com/preciosacuradoria/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.6043364,
+        "lon": -46.6400208
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.6043364&mlon=-46.6400208#map=17/-23.6043364/-46.6400208",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/14017844292",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "CopyGool",
+      "categoria": "Copyshop",
+      "descricao": "",
+      "whatsapp": "+55 (11) 93308-5457",
+      "whatsapp_link": "https://wa.me/5511933085457",
+      "telefones": [
+        "+55 (11) 5584-9772"
+      ],
+      "emails_publicos": [
+        "impressao@copygool.com.br"
+      ],
+      "site": "https://www.copygool.com.br/",
+      "endereco": "Rua Luis Góis 1332, Mirandópolis, São Paulo, 04043-150",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "seg-sex 09:00-18:00; sáb-dom fechado",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.6039303,
+        "lon": -46.6405854
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.6039303&mlon=-46.6405854#map=17/-23.6039303/-46.6405854",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/14017844295",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Kratif Barbearia",
+      "categoria": "Salão de beleza",
+      "descricao": "",
+      "whatsapp": "+55 (11) 97272-8832",
+      "whatsapp_link": "https://wa.me/5511972728832",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Luis Góis 1497, Mirandópolis, São Paulo, 04043-150",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "seg-sáb 09:00-19:30; dom fechado",
+      "redes": {
+        "instagram": "https://www.instagram.com/kratifbarbearia/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.6040871,
+        "lon": -46.6422584
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.6040871&mlon=-46.6422584#map=17/-23.6040871/-46.6422584",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/14017844298",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Colégio Nossa Senhora Aparecida",
+      "categoria": "Escola",
+      "descricao": "",
+      "whatsapp": "+55 (11) 94128-2984",
+      "whatsapp_link": "https://wa.me/5511941282984",
+      "telefones": [
+        "+55 (11) 2341-1738",
+        "+55 (11) 2341-1795"
+      ],
+      "emails_publicos": [
+        "colegio@colegioaparecida.com.br"
+      ],
+      "site": "https://www.colegioaparecida.com.br/",
+      "endereco": "Rua das Valerianas 230, Vila Bela, 03201-060",
+      "cidade": "",
+      "estado": "",
+      "horario": "seg-sex 07:00-17:30",
+      "redes": {
+        "instagram": "https://www.instagram.com/colegioaparecida",
+        "facebook": "https://www.facebook.com/col.aparecida.sp"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5988747,
+        "lon": -46.5713758
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5988747&mlon=-46.5713758#map=17/-23.5988747/-46.5713758",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/186407527",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Colégio São José dos Padres de Sion",
+      "categoria": "Escola",
+      "descricao": "",
+      "whatsapp": "+55 (11) 96333-9929",
+      "whatsapp_link": "https://wa.me/5511963339929",
+      "telefones": [
+        "+55 (11) 3473-8034",
+        "+55 (11) 3473-8039"
+      ],
+      "emails_publicos": [
+        "secretaria@colegiosionipiranga.org.br"
+      ],
+      "site": "https://colegiosionipiranga.org.br",
+      "endereco": "Rua Agostinho Gomes 1941, Ipiranga, São Paulo, 04206-001",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {
+        "facebook": "https://www.facebook.com/saojosesion"
+      },
+      "acessibilidade": "limited",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5875079,
+        "lon": -46.6036002
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5875079&mlon=-46.6036002#map=17/-23.5875079/-46.6036002",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/421387063",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Mega Dias Supermercado",
+      "categoria": "Supermercado",
+      "descricao": "",
+      "whatsapp": "+55 (11) 93324-1945",
+      "whatsapp_link": "https://wa.me/5511933241945",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Avenida Conceição 3072, São Paulo, 02135-000",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "seg-sáb 08:00-21:00, dom 08:00-14:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.4973892,
+        "lon": -46.586786
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.4973892&mlon=-46.586786#map=17/-23.4973892/-46.586786",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/422652308",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "NeuroSono",
+      "categoria": "Clínica",
+      "descricao": "",
+      "whatsapp": "+55 (11) 94039-7143",
+      "whatsapp_link": "https://wa.me/5511940397143",
+      "telefones": [
+        "+55 (11) 5081-6629"
+      ],
+      "emails_publicos": [],
+      "site": "https://neuro-sono.med.br",
+      "endereco": "Rua Cláudio Rossi 394, Jardim da Glória, São Paulo, 01547-000",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.5822512,
+        "lon": -46.6226556
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.5822512&mlon=-46.6226556#map=17/-23.5822512/-46.6226556",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/427403787",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Vedações Paramont Comércio Importadora e Exportadora Ltda",
+      "categoria": "General",
+      "descricao": "Indústria , Comercio e Importação de Peças e Vedações Para Máquinas de Café Expresso, engates rápido, mangueira de silicone,graxa alimentícia",
+      "whatsapp": "+55 (11) 99445-0137",
+      "whatsapp_link": "https://wa.me/5511994450137",
+      "telefones": [
+        "+55 (11) 3936-8018",
+        "+55 (11) 3932-8630",
+        "+55 (11) 3931-6193"
+      ],
+      "emails_publicos": [],
+      "site": "https://www.vedacoesparamont.com.br/",
+      "endereco": "Avenida Deputado Emílio Carlos 1760, Bairro do Limão, São Paulo, 02720-200",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "seg-sex 08:00-17:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.4917706,
+        "lon": -46.6764427
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.4917706&mlon=-46.6764427#map=17/-23.4917706/-46.6764427",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/597866744",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Ferravelli Lar e Construção",
+      "categoria": "Ferragens",
+      "descricao": "",
+      "whatsapp": "+55 (11) 99386-7022",
+      "whatsapp_link": "https://wa.me/5511993867022",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Avenida Engenheiro Caetano Alvares 5257, São Paulo, 02413-100",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.4849751,
+        "lon": -46.6379718
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.4849751&mlon=-46.6379718#map=17/-23.4849751/-46.6379718",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/618417290",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Marcenaria Artesanal",
+      "categoria": "Joiner",
+      "descricao": "",
+      "whatsapp": "+55 (11) 2305-3560",
+      "whatsapp_link": "https://wa.me/551123053560",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Avenida Engenheiro Caetano Alvares 5823, Vila Guaca, São Paulo, 02413-100",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -23.4825863,
+        "lon": -46.6334573
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-23.4825863&mlon=-46.6334573#map=17/-23.4825863/-46.6334573",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/618417426",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Zuma Sushi Bar",
+      "categoria": "Bar (japonesa, chinese, japanese, teriyaki, sashimi, arroz e feijão)",
+      "descricao": "",
+      "whatsapp": "+55 (21) 99076-4415",
+      "whatsapp_link": "https://wa.me/5521990764415",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "https://zuma-vidi.ga",
+      "endereco": "Avenida Presidente João Goulart 161, Vidigal, Rio de Janeiro, 22450-242",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "horario": "seg-sex 10:00-23:59, sáb-dom 11:00-01:00",
+      "redes": {
+        "instagram": "https://www.instagram.com/zumasb/",
+        "facebook": "https://www.facebook.com/sushizuma"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -22.9947345,
+        "lon": -43.2357598
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.9947345&mlon=-43.2357598#map=17/-22.9947345/-43.2357598",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6173132891",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Hortifruti",
+      "categoria": "Supermercado",
+      "descricao": "",
+      "whatsapp": "+55 (21) 99922-2000",
+      "whatsapp_link": "https://wa.me/5521999222000",
+      "telefones": [
+        "+55 (21) 3797-1450"
+      ],
+      "emails_publicos": [],
+      "site": "https://hortifruti.com.br/hnt-lp-nossas-lojas",
+      "endereco": "Rua Machado de Assis 65, Flamengo, Rio de Janeiro - RJ, 22210-060",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "horario": "seg-sáb 07:00-21:00; dom 07:00-20:00; feriados 07:00-20:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -22.931341,
+        "lon": -43.1766687
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.931341&mlon=-43.1766687#map=17/-22.931341/-43.1766687",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12552179725",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Tele Táxi Lagoa",
+      "categoria": "Taxi",
+      "descricao": "",
+      "whatsapp": "+55 (21) 96836-1414",
+      "whatsapp_link": "https://wa.me/5521968361414",
+      "telefones": [
+        "+55 (21) 3228-5000"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -22.9627623,
+        "lon": -43.2157157
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.9627623&mlon=-43.2157157#map=17/-22.9627623/-43.2157157",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12598041431",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 1
+    },
+    {
+      "nome": "Xiaomi",
+      "categoria": "Mobile phone",
+      "descricao": "",
+      "whatsapp": "+55 (21) 99923-9438",
+      "whatsapp_link": "https://wa.me/5521999239438",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "seg-sáb 10:00-22:00; dom 13:00-21:00; feriados 13:00-21:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "Xiaomi",
+      "coordenadas": {
+        "lat": -22.8968949,
+        "lon": -43.1235163
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.8968949&mlon=-43.1235163#map=17/-22.8968949/-43.1235163",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12723105361",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Xiaomi",
+      "categoria": "Mobile phone",
+      "descricao": "",
+      "whatsapp": "+55 (21) 99890-4418",
+      "whatsapp_link": "https://wa.me/5521998904418",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "seg-sáb 10:00-22:00; dom 13:00-21:00; feriados 13:00-21:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "Xiaomi",
+      "coordenadas": {
+        "lat": -22.8866003,
+        "lon": -43.2829414
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.8866003&mlon=-43.2829414#map=17/-22.8866003/-43.2829414",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12723105362",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Xiaomi",
+      "categoria": "Mobile phone",
+      "descricao": "",
+      "whatsapp": "+55 (21) 99758-8736",
+      "whatsapp_link": "https://wa.me/5521997588736",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "seg-sáb 10:00-22:00; dom 13:00-21:00; feriados 13:00-21:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "Xiaomi",
+      "coordenadas": {
+        "lat": -22.9219438,
+        "lon": -43.235023
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.9219438&mlon=-43.235023#map=17/-22.9219438/-43.235023",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12723105363",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "79ª Delegacia de Polícia",
+      "categoria": "Police",
+      "descricao": "",
+      "whatsapp": "+55 (21) 98596-7266",
+      "whatsapp_link": "https://wa.me/5521985967266",
+      "telefones": [
+        "+55 (21) 2715-4440"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Avenida Quintino Bocaiúva 115, Charitas, Niterói, 24360-030",
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "horario": "24/7",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -22.9337435,
+        "lon": -43.0994753
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.9337435&mlon=-43.0994753#map=17/-22.9337435/-43.0994753",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/284296014",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Ipanema Inn",
+      "categoria": "Hotel",
+      "descricao": "\\\"No",
+      "whatsapp": "+55 (21) 96746-0778",
+      "whatsapp_link": "https://wa.me/5521967460778",
+      "telefones": [
+        "+55 (21) 2529-1000"
+      ],
+      "emails_publicos": [],
+      "site": "https://www.ipanemainn.com.br/",
+      "endereco": "Rua Maria Quitéria 27, Ipanema, Rio de Janeiro, 22410-040",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -22.9854442,
+        "lon": -43.2073631
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.9854442&mlon=-43.2073631#map=17/-22.9854442/-43.2073631",
+      "cnpj_publico": "99999999999999",
+      "fonte_mapa": "https://www.openstreetmap.org/way/429950595",
+      "fonte_site": "https://www.ipanemainn.com.br/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 2
+    },
+    {
+      "nome": "Ballroom Niterói - Casa de Festas em São Francisco",
+      "categoria": "Events venue",
+      "descricao": "A décima unidade da Rede Ballroom só podia ser na Cidade Sorriso. Todo o requinte e exclusividade Ballroom, a 900 metros da praia de São Francisco, em Niterói.",
+      "whatsapp": "+55 (21) 97197-4963",
+      "whatsapp_link": "https://wa.me/5521971974963",
+      "telefones": [],
+      "emails_publicos": [
+        "contato@ballroom.com.br",
+        "sac@ballroom.com.br"
+      ],
+      "site": "https://www.ballroom.com.br/niteroi",
+      "endereco": "Avenida Presidente Roosevelt 190, São Francisco, Niterói, 24360-066",
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "horario": "",
+      "redes": {
+        "facebook": "https://www.facebook.com/ballroomniteroi",
+        "instagram": "https://www.instagram.com/ballroomniteroi/",
+        "youtube": "https://www.youtube.com/channel/UCQHK6FFP-YXVFpWQ_vBfBUA/videos"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -22.9144387,
+        "lon": -43.0862773
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-22.9144387&mlon=-43.0862773#map=17/-22.9144387/-43.0862773",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/1552471930",
+      "fonte_site": "https://www.ballroom.com.br/niteroi",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 2
+    },
+    {
+      "nome": "Digitech Soluções Tecnológicas Ltda.",
+      "categoria": "Eletrônicos",
+      "descricao": "Specialized Technical Assistance for Repairing Digital Camera, Lens, Flash, Notebook, Video Game, Drone, Camcorder, Projector, Tablet and Smartphone of all Brands and Models.",
+      "whatsapp": "+55 (31) 99554-2019",
+      "whatsapp_link": "https://wa.me/5531995542019",
+      "telefones": [
+        "+55 (31) 3224-2019",
+        "+55 (31) 2535-2019",
+        "+55 (31) 2520-0007"
+      ],
+      "emails_publicos": [
+        "orcamento@digitechbh.com.br",
+        "contato@digitechbh.com.br"
+      ],
+      "site": "https://www.digitechbh.com.br/",
+      "endereco": "Rua dos Tupis 485, Centro, Belo Horizonte, 30170-131",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "horario": "seg-sex 08:30-18:30",
+      "redes": {
+        "instagram": "https://www.instagram.com/digitechbh",
+        "facebook": "https://www.facebook.com/digitechcameras",
+        "twitter": "https://twitter.com/digitechbh",
+        "linkedin": "https://www.linkedin.com/in/digitechcameras",
+        "youtube": "https://www.youtube.com/watch"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -19.9211595,
+        "lon": -43.9415723
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-19.9211595&mlon=-43.9415723#map=17/-19.9211595/-43.9415723",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4946526718",
+      "fonte_site": "https://digitechbh.com.br/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 2
+    },
+    {
+      "nome": "Drogaria Amintas",
+      "categoria": "Farmácia",
+      "descricao": "",
+      "whatsapp": "+55 (31) 99151-2097",
+      "whatsapp_link": "https://wa.me/5531991512097",
+      "telefones": [
+        "+55 (31) 3568-1296",
+        "+55 (31) 3568-1297"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -19.8962168,
+        "lon": -44.0138196
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-19.8962168&mlon=-44.0138196#map=17/-19.8962168/-44.0138196",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/7275446121",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Empório Palato",
+      "categoria": "Conveniência",
+      "descricao": "",
+      "whatsapp": "+55 (31) 97154-0923",
+      "whatsapp_link": "https://wa.me/5531971540923",
+      "telefones": [
+        "+55 (31) 2512-1010"
+      ],
+      "emails_publicos": [],
+      "site": "https://www.emporiopalato.com.br/",
+      "endereco": "Rua Pouso Alegre 973, Floresta, Belo Horizonte, 31015-215",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "horario": "seg-sex 09:30-19:00; sáb 09:30-16:00",
+      "redes": {
+        "instagram": "https://www.instagram.com/emporio_palato/",
+        "facebook": "http://facebook.com/emporiopalato"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -19.9119287,
+        "lon": -43.9302953
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-19.9119287&mlon=-43.9302953#map=17/-19.9119287/-43.9302953",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/7835995732",
+      "fonte_site": "site indisponível nesta coleta",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Dog Star - Clínica e Petshop",
+      "categoria": "Clínica veterinária",
+      "descricao": "",
+      "whatsapp": "+55 (31) 99240-0033",
+      "whatsapp_link": "https://wa.me/5531992400033",
+      "telefones": [
+        "+55 (31) 3332-4355"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Cuiabá 1271, Prado, Belo Horizonte, 30421238",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "horario": "24/7",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -19.9302815,
+        "lon": -43.9707213
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-19.9302815&mlon=-43.9707213#map=17/-19.9302815/-43.9707213",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/8411397348",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Instituto Baeta",
+      "categoria": "Hospital",
+      "descricao": "",
+      "whatsapp": "+55 (31) 2120-0888",
+      "whatsapp_link": "https://wa.me/553121200888",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua da Bahia 2696, Lourdes, Belo Horizonte, 30160-019",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "horario": "seg-sex 08:00-18:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -19.9385944,
+        "lon": -43.9416412
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-19.9385944&mlon=-43.9416412#map=17/-19.9385944/-43.9416412",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12547654751",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Xiaomi",
+      "categoria": "Mobile phone",
+      "descricao": "",
+      "whatsapp": "+55 (31) 97106-0181",
+      "whatsapp_link": "https://wa.me/5531971060181",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "seg-sáb 10:00-22:00; dom 14:00-20:00; feriados 14:00-20:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "Xiaomi",
+      "coordenadas": {
+        "lat": -19.8205584,
+        "lon": -43.9470515
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-19.8205584&mlon=-43.9470515#map=17/-19.8205584/-43.9470515",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12705839320",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Renovar Tech",
+      "categoria": "Electronics repair",
+      "descricao": "Assistência técnica de eletrônicos: conserto de caixas de som, fones de ouvido e celulares",
+      "whatsapp": "+55 (31) 98102-6477",
+      "whatsapp_link": "https://wa.me/5531981026477",
+      "telefones": [],
+      "emails_publicos": [
+        "comercial@renovartech.com.br"
+      ],
+      "site": "https://www.renovartech.com.br",
+      "endereco": "Rua Antônio de Albuquerque 145, Funcionários, Belo Horizonte, 30112-010",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "horario": "seg-sex 08:00-18:00; sáb 08:00-13:00",
+      "redes": {
+        "instagram": "https://www.instagram.com/renovar.tech/",
+        "facebook": "https://www.facebook.com/profile.php",
+        "youtube": "https://youtube.com/@renovartech1"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -19.9391466,
+        "lon": -43.9320106
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-19.9391466&mlon=-43.9320106#map=17/-19.9391466/-43.9320106",
+      "cnpj_publico": "41.206.506/0001-39",
+      "fonte_mapa": "https://www.openstreetmap.org/node/14180629935",
+      "fonte_site": "https://www.renovartech.com.br/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 2
+    },
+    {
+      "nome": "Churrascaria Batel Grill",
+      "categoria": "Restaurante (churrascaria)",
+      "descricao": "Uma churrascaria grande e moderno para toda a família com uma adega e muitos pratos quentes e frios.",
+      "whatsapp": "+55 (41) 99167-6392",
+      "whatsapp_link": "https://wa.me/5541991676392",
+      "telefones": [
+        "+55 (41) 3342-8101"
+      ],
+      "emails_publicos": [
+        "contato@batelgrill.com.br"
+      ],
+      "site": "https://batelgrill.com.br",
+      "endereco": "Avenida Nossa Senhora Aparecida 78",
+      "cidade": "",
+      "estado": "",
+      "horario": "ter-sex 11:30-15:00, 18:30-22:30; sáb 11:30-15:30, 18:30-22:30; dom 11:30-16:00; seg fechado",
+      "redes": {
+        "instagram": "https://www.instagram.com/batelgrill",
+        "facebook": "https://www.facebook.com/BatelGrill"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -25.4489318,
+        "lon": -49.2994893
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.4489318&mlon=-49.2994893#map=17/-25.4489318/-49.2994893",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/1067602825",
+      "fonte_site": "https://batelgrill.com.br/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 2
+    },
+    {
+      "nome": "Parceria Solar",
+      "categoria": "Energy",
+      "descricao": "",
+      "whatsapp": "+55 (41) 99865-0100",
+      "whatsapp_link": "https://wa.me/5541998650100",
+      "telefones": [
+        "+55 (41) 3123-8000"
+      ],
+      "emails_publicos": [
+        "parana@parceriasolar.com"
+      ],
+      "site": "https://www.parceriasolar.com/",
+      "endereco": "Rua Chanceler Lauro Müller 543",
+      "cidade": "",
+      "estado": "",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -25.4616194,
+        "lon": -49.2631233
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.4616194&mlon=-49.2631233#map=17/-25.4616194/-49.2631233",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6177659009",
+      "fonte_site": "site indisponível nesta coleta",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Brava Motors Curitiba",
+      "categoria": "Motorcycle",
+      "descricao": "Acesse o site e confira as ofertas.",
+      "whatsapp": "+55 (41) 99233-1020",
+      "whatsapp_link": "https://wa.me/5541992331020",
+      "telefones": [
+        "+55 (41) 3018-2840",
+        "+55 (47) 3013-2020",
+        "+55 (42) 3323-5408"
+      ],
+      "emails_publicos": [
+        "falecom@bravabajaj.com.br"
+      ],
+      "site": "https://bravabajaj.com.br/?fbclid=PAQ0xDSwKGx5lleHRuA2FlbQIxMQABp-467_umud-99Rqp71sdrgvz98Es6eRGxvlOm06zgW6KdfpZho3agLt_Sbz7_aem_f6RJwQWSdKzEAja3R7qAVg",
+      "endereco": "Avenida Marechal Floriano Peixoto 3024, Parolin, Curitiba, 80220-001",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "horario": "seg-sex 08:30-18:00; sáb 08:30-12:30; dom fechado; feriados closed",
+      "redes": {
+        "instagram": "https://www.instagram.com/bravabajaj?igsh=MXZpeHF1NHk0bmFweQ==",
+        "facebook": "https://www.facebook.com/bravabajaj",
+        "youtube": "https://www.youtube.com/@bravabajaj",
+        "linkedin": "https://www.linkedin.com/company/brava-bajaj"
+      },
+      "acessibilidade": "",
+      "marca": "Bajaj",
+      "coordenadas": {
+        "lat": -25.4557882,
+        "lon": -49.260059
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.4557882&mlon=-49.260059#map=17/-25.4557882/-49.260059",
+      "cnpj_publico": "53.632.745/0001-30",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6177661011",
+      "fonte_site": "https://www.bravabajaj.com.br:443/?fbclid=PAQ0xDSwKGx5lleHRuA2FlbQIxMQABp-467_umud-99Rqp71sdrgvz98Es6eRGxvlOm06zgW6KdfpZho3agLt_Sbz7_aem_f6RJwQWSdKzEAja3R7qAVg",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 2
+    },
+    {
+      "nome": "Golden Star",
+      "categoria": "Hotel",
+      "descricao": "",
+      "whatsapp": "+55 (41) 98781-4932",
+      "whatsapp_link": "https://wa.me/5541987814932",
+      "telefones": [
+        "+55 (41) 3888-7888"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Mariano Torres 135",
+      "cidade": "",
+      "estado": "",
+      "horario": "24/7",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -25.4277414,
+        "lon": -49.263649
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.4277414&mlon=-49.263649#map=17/-25.4277414/-49.263649",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6181965512",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Lupertine",
+      "categoria": "Restaurante (pizza, italian pizza)",
+      "descricao": "Pizzaria Lupertine | No mercado curitibano há mais de uma década.",
+      "whatsapp": "+55 (41) 99711-6269",
+      "whatsapp_link": "https://wa.me/5541997116269",
+      "telefones": [
+        "+55 (41) 3229-2020",
+        "+55 (41) 3229-9999",
+        "+55 (41) 3376-9566"
+      ],
+      "emails_publicos": [],
+      "site": "http://www.lupertine.com.br/",
+      "endereco": "Avenida dos Estados 1274, Água Verde, Curitiba",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "horario": "seg-dom 18:00-23:00",
+      "redes": {
+        "facebook": "https://www.facebook.com/pizzarialupertine",
+        "instagram": "https://www.instagram.com/lupertinepizzaria/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -25.4695439,
+        "lon": -49.2894232
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.4695439&mlon=-49.2894232#map=17/-25.4695439/-49.2894232",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6359192219",
+      "fonte_site": "https://lupertine.com.br/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 2
+    },
+    {
+      "nome": "Lupertine",
+      "categoria": "Restaurante (pizza, italian pizza)",
+      "descricao": "Pizzaria Lupertine | No mercado curitibano há mais de uma década.",
+      "whatsapp": "+55 (41) 98860-8297",
+      "whatsapp_link": "https://wa.me/5541988608297",
+      "telefones": [
+        "+55 (41) 3276-3030",
+        "+55 (41) 3276-0909"
+      ],
+      "emails_publicos": [],
+      "site": "http://www.lupertine.com.br/",
+      "endereco": "Rua Paulo Setúbal 3017, Boqueirão, Curitiba",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "horario": "seg-dom 18:00-23:00",
+      "redes": {
+        "facebook": "https://www.facebook.com/pizzarialupertine/",
+        "instagram": "https://www.instagram.com/lupertinepizzaria/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -25.5031465,
+        "lon": -49.2491178
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.5031465&mlon=-49.2491178#map=17/-25.5031465/-49.2491178",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6421947692",
+      "fonte_site": "https://lupertine.com.br/",
+      "tem_site": true,
+      "site_respondeu": true,
+      "ciclo": 2
+    },
+    {
+      "nome": "Apart Hotel Paraty",
+      "categoria": "Hotel",
+      "descricao": "",
+      "whatsapp": "+55 (41) 99783-3344",
+      "whatsapp_link": "https://wa.me/5541997833344",
+      "telefones": [
+        "+55 (41) 3223-1355",
+        "+55 (41) 3223-3888"
+      ],
+      "emails_publicos": [
+        "contato@hotelparati.com.br"
+      ],
+      "site": "http://www.hotelparati.com.br",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -25.4298411,
+        "lon": -49.2691259
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.4298411&mlon=-49.2691259#map=17/-25.4298411/-49.2691259",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6701974781",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "HM Eletricista",
+      "categoria": "Electrician",
+      "descricao": "",
+      "whatsapp": "+55 (41) 98448-6415",
+      "whatsapp_link": "https://wa.me/5541984486415",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Avenida Allan Kardec 324, Jardim Campo Alto, COLOMBO, 83408090",
+      "cidade": "COLOMBO",
+      "estado": "",
+      "horario": "24/7",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -25.378842,
+        "lon": -49.1875154
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.378842&mlon=-49.1875154#map=17/-25.378842/-49.1875154",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12511353794",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Xiaomi",
+      "categoria": "Mobile phone",
+      "descricao": "",
+      "whatsapp": "+55 (41) 99211-5122",
+      "whatsapp_link": "https://wa.me/5541992115122",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "seg-sex 11:00-23:00; sáb 10:00-22:00; dom 10:00-20:00, feriados 14:00-20:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "Xiaomi",
+      "coordenadas": {
+        "lat": -25.4774787,
+        "lon": -49.290544
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.4774787&mlon=-49.290544#map=17/-25.4774787/-49.290544",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12705839328",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Churrascaria Boi Dourado",
+      "categoria": "Restaurante",
+      "descricao": "",
+      "whatsapp": "+55 (41) 99597-7765",
+      "whatsapp_link": "https://wa.me/5541995977765",
+      "telefones": [
+        "+55 (41) 3369-1902"
+      ],
+      "emails_publicos": [],
+      "site": "https://www.churrascariaboidourado.com.br",
+      "endereco": "Avenida Comendador Franco 5085, Uberaba, Curitiba",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "horario": "",
+      "redes": {
+        "instagram": "https://www.instagram.com/boidouradocwb",
+        "facebook": "https://www.facebook.com/BoiDouradoChurrascaria"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -25.475001,
+        "lon": -49.2264085
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.475001&mlon=-49.2264085#map=17/-25.475001/-49.2264085",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/276751059",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Lovinha",
+      "categoria": "Restaurante (pizza)",
+      "descricao": "",
+      "whatsapp": "+55 (41) 99270-7036",
+      "whatsapp_link": "https://wa.me/5541992707036",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Avenida Prefeito Omar Sabbag 906, Jardim Botânico, Curitiba, 80215-090",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "horario": "qua-qui 18:00-22:00; sex-dom 18:00-23:00",
+      "redes": {
+        "facebook": "https://www.facebook.com/lovinha.cwb"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -25.4423397,
+        "lon": -49.2481762
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.4423397&mlon=-49.2481762#map=17/-25.4423397/-49.2481762",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/384035627",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Unitec",
+      "categoria": "Faculdade",
+      "descricao": "",
+      "whatsapp": "+55 (41) 99784-1874",
+      "whatsapp_link": "https://wa.me/5541997841874",
+      "telefones": [
+        "+55 (41) 3232-0962"
+      ],
+      "emails_publicos": [
+        "unitec@unitecpr.com.br"
+      ],
+      "site": "https://www.unitecpr.com.br",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -25.4366227,
+        "lon": -49.2646857
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.4366227&mlon=-49.2646857#map=17/-25.4366227/-49.2646857",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/1078732788",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Mania do doce",
+      "categoria": "Confectionery",
+      "descricao": "",
+      "whatsapp": "+55 (41) 3675-2206",
+      "whatsapp_link": "https://wa.me/554136752206",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Avenida Jacob Macanhan 374",
+      "cidade": "",
+      "estado": "",
+      "horario": "",
+      "redes": {
+        "instagram": "https://www.instagram.com/maniadodoce_atacadoevarejo"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -25.4297809,
+        "lon": -49.1831138
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-25.4297809&mlon=-49.1831138#map=17/-25.4297809/-49.1831138",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/way/1417446579",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "A Virgem",
+      "categoria": "Bar",
+      "descricao": "",
+      "whatsapp": "+55 (51) 99124-3362",
+      "whatsapp_link": "https://wa.me/5551991243362",
+      "telefones": [
+        "+55 (51) 3085-9090"
+      ],
+      "emails_publicos": [
+        "avirgemltda@gmail.com"
+      ],
+      "site": "",
+      "endereco": "Rua Olavo Bilac 251, Cidade Baixa, Porto Alegre, 90040-310",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "horario": "seg-dom 11:00-23:00",
+      "redes": {
+        "instagram": "https://www.instagram.com/avirgembar",
+        "facebook": "https://www.facebook.com/AVirgemBar"
+      },
+      "acessibilidade": "no",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0429561,
+        "lon": -51.2167985
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0429561&mlon=-51.2167985#map=17/-30.0429561/-51.2167985",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/4591607976",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Don Loreto",
+      "categoria": "Restaurante",
+      "descricao": "",
+      "whatsapp": "+55 (51) 99220-9913",
+      "whatsapp_link": "https://wa.me/5551992209913",
+      "telefones": [
+        "+55 (51) 2103-4664"
+      ],
+      "emails_publicos": [],
+      "site": "https://www.donloretopizzaria.com.br/",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "ter-dom 18:30-23:30",
+      "redes": {
+        "facebook": "https://www.facebook.com/donloretosaborartesanal/"
+      },
+      "acessibilidade": "limited",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0354591,
+        "lon": -51.2350222
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0354591&mlon=-51.2350222#map=17/-30.0354591/-51.2350222",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5922691926",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Diet Empório",
+      "categoria": "Health food",
+      "descricao": "",
+      "whatsapp": "+55 (51) 98182-0437",
+      "whatsapp_link": "https://wa.me/5551981820437",
+      "telefones": [
+        "+55 (51) 3222-8718"
+      ],
+      "emails_publicos": [
+        "atendimento@dietemporio.com.br"
+      ],
+      "site": "https://www.dietemporio.com.br/",
+      "endereco": "Rua Doutor Florêncio Ygartua 65",
+      "cidade": "",
+      "estado": "",
+      "horario": "seg-sex 09:00-19:00; sáb 09:00-18:00",
+      "redes": {
+        "facebook": "https://www.facebook.com/DietEmporio.com.br/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0272015,
+        "lon": -51.2032765
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0272015&mlon=-51.2032765#map=17/-30.0272015/-51.2032765",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5927758916",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Pugg Food & Beer",
+      "categoria": "Lanchonete (sausage, hambúrguer)",
+      "descricao": "",
+      "whatsapp": "+55 (51) 98621-7255",
+      "whatsapp_link": "https://wa.me/5551986217255",
+      "telefones": [
+        "+55 (51) 3062-8839"
+      ],
+      "emails_publicos": [],
+      "site": "https://www.pugghotdog.com.br/",
+      "endereco": "Avenida Osvaldo Aranha 778",
+      "cidade": "",
+      "estado": "",
+      "horario": "seg 11:00-15:00; ter-sáb 11:00-23:30; Su11:30-22:30",
+      "redes": {
+        "instagram": "https://www.instagram.com/pugghotdog/",
+        "facebook": "https://www.facebook.com/pugghotdog/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0336774,
+        "lon": -51.2144423
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0336774&mlon=-51.2144423#map=17/-30.0336774/-51.2144423",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/5929230842",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Moishele Doces e Salgados Veganos",
+      "categoria": "Pastry",
+      "descricao": "",
+      "whatsapp": "+55 (51) 98330-2690",
+      "whatsapp_link": "https://wa.me/5551983302690",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "https://moishele.wixsite.com/moishele",
+      "endereco": "Rua Vicente da Fontoura 1485",
+      "cidade": "",
+      "estado": "",
+      "horario": "seg-sex 09:00-17:00",
+      "redes": {
+        "facebook": "https://www.facebook.com/moisheledocesesalgados/"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0478202,
+        "lon": -51.1998855
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0478202&mlon=-51.1998855#map=17/-30.0478202/-51.1998855",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/6031036606",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Vincenzo Spaghetteria",
+      "categoria": "Restaurante (italian)",
+      "descricao": "Cozinha italiana, com ênfase em massas caseiras, além de vinhos e drinques, em cantina acolhedora e familiar.",
+      "whatsapp": "+55 (51) 99954-9896",
+      "whatsapp_link": "https://wa.me/5551999549896",
+      "telefones": [
+        "+55 (51) 3907-2222"
+      ],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Fernandes Vieira 320",
+      "cidade": "",
+      "estado": "",
+      "horario": "seg fechado; ter-sex 11:00-14:30, 19:00-22:30; sáb 11:30-16:00, 19:00-22:30; dom 11:30-16:00",
+      "redes": {
+        "instagram": "https://www.instagram.com/osteria.vincenzo",
+        "facebook": "https://www.facebook.com/VincenzoSpaghetteria"
+      },
+      "acessibilidade": "yes",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0322247,
+        "lon": -51.2107468
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0322247&mlon=-51.2107468#map=17/-30.0322247/-51.2107468",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/7179136561",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Multi Artes",
+      "categoria": "Frame",
+      "descricao": "",
+      "whatsapp": "+55 (51) 99207-4882",
+      "whatsapp_link": "https://wa.me/5551992074882",
+      "telefones": [
+        "+55 (55) 93029-6819"
+      ],
+      "emails_publicos": [
+        "multiartes@multiartesmolduras.com.br"
+      ],
+      "site": "https://www.multiartesmolduras.com.br",
+      "endereco": "206",
+      "cidade": "",
+      "estado": "",
+      "horario": "",
+      "redes": {
+        "facebook": "https://www.facebook.com/multiartsportoalegre"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0354783,
+        "lon": -51.2298223
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0354783&mlon=-51.2298223#map=17/-30.0354783/-51.2298223",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/8649089212",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Alexandre Leite Desenvolvedor e Consultor em Autocustódia de Bitcoins",
+      "categoria": "Desenvolvimento de sistemas e soluções",
+      "descricao": "",
+      "whatsapp": "+55 (51) 99718-0716",
+      "whatsapp_link": "https://wa.me/5551997180716",
+      "telefones": [],
+      "emails_publicos": [
+        "acl1970@gmail.com"
+      ],
+      "site": "",
+      "endereco": "Rua Amadeu Fagundes de Oliveira Freitas 80, Morro Santana, Porto Alegre, 91260-010",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "horario": "seg-sex 09:00-18:00",
+      "redes": {},
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0398495,
+        "lon": -51.1277481
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0398495&mlon=-51.1277481#map=17/-30.0398495/-51.1277481",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/11038312753",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Ronsax Saxofonista e Professor",
+      "categoria": "Music school",
+      "descricao": "Saxofonista para eventos e professor de música.",
+      "whatsapp": "+55 (51) 99716-7190",
+      "whatsapp_link": "https://wa.me/5551997167190",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Doutor João Inácio 1019, Navegantes, Porto Alegre, 90230-180",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "horario": "seg-sex 09:00-20:00",
+      "redes": {
+        "instagram": "https://www.instagram.com/ronsaxo"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.00262,
+        "lon": -51.1961541
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.00262&mlon=-51.1961541#map=17/-30.00262/-51.1961541",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/11038330997",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Térence Veras",
+      "categoria": "Music school",
+      "descricao": "",
+      "whatsapp": "+55 (51) 99136-7623",
+      "whatsapp_link": "https://wa.me/5551991367623",
+      "telefones": [],
+      "emails_publicos": [
+        "terence.veras@gmail.com"
+      ],
+      "site": "",
+      "endereco": "",
+      "cidade": "",
+      "estado": "",
+      "horario": "",
+      "redes": {
+        "instagram": "https://www.instagram.com/terenceveras",
+        "facebook": "https://www.facebook.com/terenceveras"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0266591,
+        "lon": -51.1825664
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0266591&mlon=-51.1825664#map=17/-30.0266591/-51.1825664",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/11086814468",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Velho Garcia Barbearia",
+      "categoria": "Salão de beleza",
+      "descricao": "",
+      "whatsapp": "+55 (51) 98618-0056",
+      "whatsapp_link": "https://wa.me/5551986180056",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Dona Firmina 984, São José, Porto Alegre",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "horario": "",
+      "redes": {
+        "instagram": "https://www.instagram.com/velhogarciaa",
+        "facebook": "https://www.facebook.com/velhogarciaa"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0705674,
+        "lon": -51.1694286
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0705674&mlon=-51.1694286#map=17/-30.0705674/-51.1694286",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/11519988262",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Eletroscheffler Assistência Técnica",
+      "categoria": "Electronics repair",
+      "descricao": "Com mais de 14 anos de experiência no ramo. prestamos serviços especializados em assistência técnica de computadores, celulares e tablets. Realizamos reparos avancados em linha Apple e Andoid. Comercializamos películas, cabos, carregadores e acessórios.",
+      "whatsapp": "+55 (51) 3392-5946",
+      "whatsapp_link": "https://wa.me/555133925946",
+      "telefones": [],
+      "emails_publicos": [],
+      "site": "",
+      "endereco": "Rua Coronel Claudino 399, Cristal, Porto Alegre, 91910-670",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "horario": "seg-sex 09:00-18:00",
+      "redes": {
+        "instagram": "https://www.instagram.com/eletroscheffler"
+      },
+      "acessibilidade": "",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0972515,
+        "lon": -51.2432154
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0972515&mlon=-51.2432154#map=17/-30.0972515/-51.2432154",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12362697549",
+      "fonte_site": "",
+      "tem_site": false,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "DRSUL",
+      "categoria": "Motorcycle",
+      "descricao": "",
+      "whatsapp": "+55 (51) 99653-3266",
+      "whatsapp_link": "https://wa.me/5551996533266",
+      "telefones": [
+        "+55 (51) 2312-7007"
+      ],
+      "emails_publicos": [
+        "leadsdrsulbajaj@gmail.com"
+      ],
+      "site": "https://www.drsulbajaj.com.br/",
+      "endereco": "Avenida Ipiranga 435, Menino Deus, Porto Alegre, 90160-092",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "horario": "seg-sex 08:00-18:00; sáb 08:00-17:30; dom closed; feriados closed",
+      "redes": {
+        "instagram": "https://www.instagram.com/drsulbajaj?igsh=MXE4cjc5NHh5NXV2MA=="
+      },
+      "acessibilidade": "",
+      "marca": "Bajaj",
+      "coordenadas": {
+        "lat": -30.048573,
+        "lon": -51.2237938
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.048573&mlon=-51.2237938#map=17/-30.048573/-51.2237938",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12836765717",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    },
+    {
+      "nome": "Zé Rodrigues",
+      "categoria": "Theatre",
+      "descricao": "",
+      "whatsapp": "+55 (51) 99971-4786",
+      "whatsapp_link": "https://wa.me/5551999714786",
+      "telefones": [
+        "+55 (51) 3337-0933"
+      ],
+      "emails_publicos": [],
+      "site": "https://www.teatrozerodrigues.com.br",
+      "endereco": "Avenida Borges de Medeiros 2500",
+      "cidade": "",
+      "estado": "",
+      "horario": "",
+      "redes": {},
+      "acessibilidade": "yes",
+      "marca": "",
+      "coordenadas": {
+        "lat": -30.0502938,
+        "lon": -51.229013
+      },
+      "mapa": "https://www.openstreetmap.org/?mlat=-30.0502938&mlon=-51.229013#map=17/-30.0502938/-51.229013",
+      "cnpj_publico": "",
+      "fonte_mapa": "https://www.openstreetmap.org/node/12913499123",
+      "fonte_site": "",
+      "tem_site": true,
+      "site_respondeu": false,
+      "ciclo": 2
+    }
+  ],
+  "ciclos": [
+    {
+      "numero": 1,
+      "quando": "2026-10-29 09:45",
+      "quantidade": 40
+    },
+    {
+      "numero": 2,
+      "quando": "2026-10-29 09:48",
+      "quantidade": 40
+    }
+  ]
+}

@@ -36,6 +36,12 @@ CIDADES = (
     ("Florianópolis", -27.5954, -48.5480),
     ("Campinas", -22.9099, -47.0626),
     ("Goiânia", -16.6869, -49.2648),
+    ("Santos", -23.9608, -46.3336),
+    ("Ribeirão Preto", -21.1775, -47.8103),
+    ("Londrina", -23.3045, -51.1696),
+    ("Joinville", -26.3045, -48.8487),
+    ("Uberlândia", -18.9186, -48.2772),
+    ("Manaus", -3.1190, -60.0217),
 )
 
 CATEGORIA = {
@@ -153,12 +159,20 @@ def _session() -> requests.Session:
     return s
 
 
-def _consulta_cidade(lat: float, lon: float) -> str:
+def _consulta_cidade(lat: float, lon: float, raio: int = 12000, quantidade: int = 40) -> str:
     return (
         "[out:json][timeout:25];\n"
-        f'(nwr["contact:whatsapp"]["name"](around:9000,{lat},{lon}););\n'
-        "out tags center 15;"
+        f'(nwr["contact:whatsapp"]["name"](around:{raio},{lat},{lon}););\n'
+        f"out tags center {quantidade};"
     )
+
+
+def chave_empresa(empresa: dict[str, Any]) -> str:
+    return (
+        empresa.get("whatsapp_link")
+        or empresa.get("fonte_mapa")
+        or (empresa.get("nome") or "").casefold()
+    ).strip()
 
 
 def buscar_osm(session: requests.Session, minimo: int = 18) -> list[dict[str, Any]]:
@@ -169,7 +183,7 @@ def buscar_osm(session: requests.Session, minimo: int = 18) -> list[dict[str, An
         if len(elementos) >= minimo:
             break
         print(f"buscando em {cidade}...", flush=True)
-        consulta = _consulta_cidade(lat, lon)
+        consulta = _consulta_cidade(lat, lon, raio=9000, quantidade=15)
         conseguiu = False
         for url in OVERPASS_URLS:
             try:
@@ -789,50 +803,80 @@ def pontuar(empresa: dict[str, Any]) -> int:
     return pontos
 
 
-def coletar(limite: int = 10) -> list[dict[str, Any]]:
-    session = _session()
-    elementos = buscar_osm(session)
-    bases: list[dict[str, Any]] = []
-    vistos: set[str] = set()
-    for elemento in elementos:
-        empresa = montar_base(elemento)
-        if not empresa:
+def _buscar_cidade(
+    session: requests.Session,
+    cidade: str,
+    lat: float,
+    lon: float,
+    raio: int,
+    quantidade: int,
+) -> list[dict[str, Any]]:
+    print(f"buscando em {cidade}...", flush=True)
+    consulta = _consulta_cidade(lat, lon, raio, quantidade)
+    for url in OVERPASS_URLS:
+        try:
+            resposta = session.post(url, data={"data": consulta}, timeout=35)
+        except requests.RequestException as exc:
+            print(f"  {cidade}: {exc.__class__.__name__}", flush=True)
             continue
-        chave = empresa["whatsapp_link"] or empresa["nome"].lower()
-        if chave in vistos:
+        if resposta.status_code != 200 or not resposta.text.lstrip().startswith("{"):
+            print(f"  {cidade}: HTTP {resposta.status_code}", flush=True)
             continue
-        vistos.add(chave)
-        bases.append(empresa)
+        try:
+            lote = resposta.json().get("elements", [])
+        except ValueError:
+            print(f"  {cidade}: resposta inválida", flush=True)
+            continue
+        print(f"  {len(lote)} pontos", flush=True)
+        return lote
+    return []
 
-    com_site = [e for e in bases if e["site"]]
-    sem_site = [e for e in bases if not e["site"]]
-    com_site.sort(key=pontuar, reverse=True)
-    sem_site.sort(key=pontuar, reverse=True)
-    fila = com_site[: limite + 6] + sem_site
+
+def coletar(limite: int = 10, ignorar: set[str] | None = None) -> list[dict[str, Any]]:
+    ja = {chave for chave in (ignorar or set()) if chave}
+    session = _session()
+    novas: list[dict[str, Any]] = []
+    vistos_osm: set[tuple[str, int]] = set()
+    for raio, quantidade in ((12000, 50), (20000, 80)):
+        if len(novas) >= limite:
+            break
+        for cidade, lat, lon in CIDADES:
+            if len(novas) >= limite:
+                break
+            for elemento in _buscar_cidade(session, cidade, lat, lon, raio, quantidade):
+                chave_osm = (str(elemento.get("type")), int(elemento.get("id") or 0))
+                if chave_osm in vistos_osm:
+                    continue
+                vistos_osm.add(chave_osm)
+                empresa = montar_base(elemento)
+                if not empresa:
+                    continue
+                chave = chave_empresa(empresa)
+                if not chave or chave in ja:
+                    continue
+                ja.add(chave)
+                novas.append(empresa)
+                if len(novas) >= limite:
+                    break
+            time.sleep(1.0)
+
+    if not novas:
+        raise RuntimeError("Não achei empresas novas com WhatsApp público.")
 
     robots_cache: dict[str, RobotFileParser] = {}
-    escolhidas: list[dict[str, Any]] = []
+    teto_visitas = min(limite, 10)
     visitas = 0
-    for empresa in fila:
-        if empresa["site"] and visitas < limite + 2:
+    for empresa in novas:
+        if empresa["site"] and visitas < teto_visitas:
             print(f"lendo site de {empresa['nome']}...", flush=True)
             enriquecer_site(session, empresa, robots_cache)
             visitas += 1
             time.sleep(0.4)
-        escolhidas.append(empresa)
-        if len(escolhidas) >= limite + 4:
-            break
-
-    if len(escolhidas) < limite:
-        raise RuntimeError(f"Só encontrei {len(escolhidas)} empresas públicas com WhatsApp.")
-
-    escolhidas.sort(key=pontuar, reverse=True)
-    for empresa in escolhidas:
         empresa.pop("paginas_lidas", None)
         empresa["emails_publicos"] = empresa["emails_publicos"][:4]
         empresa["telefones"] = empresa["telefones"][:4]
         _marcar_presenca(empresa)
-    return escolhidas[:limite]
+    return novas[:limite]
 
 
 def atribuicao() -> str:
