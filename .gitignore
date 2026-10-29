@@ -6,3 +6,4 @@ probe_*.py
 *_sample.xml
 *_sample.json
 .DS_Store
+.env

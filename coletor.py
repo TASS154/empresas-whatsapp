@@ -293,6 +293,100 @@ def _e_empresa(tags: dict[str, str]) -> bool:
     return False
 
 
+UFS = {
+    "AC", "AL", "AP", "AM", "BA", "CE", "DF", "ES", "GO", "MA", "MT", "MS",
+    "MG", "PA", "PB", "PR", "PE", "PI", "RJ", "RN", "RS", "RO", "RR", "SC",
+    "SP", "SE", "TO",
+}
+
+NOME_UF = {
+    "acre": "AC",
+    "alagoas": "AL",
+    "amapa": "AP",
+    "amapá": "AP",
+    "amazonas": "AM",
+    "bahia": "BA",
+    "ceara": "CE",
+    "ceará": "CE",
+    "distrito federal": "DF",
+    "espirito santo": "ES",
+    "espírito santo": "ES",
+    "goias": "GO",
+    "goiás": "GO",
+    "maranhao": "MA",
+    "maranhão": "MA",
+    "mato grosso": "MT",
+    "mato grosso do sul": "MS",
+    "minas gerais": "MG",
+    "para": "PA",
+    "pará": "PA",
+    "paraiba": "PB",
+    "paraíba": "PB",
+    "parana": "PR",
+    "paraná": "PR",
+    "pernambuco": "PE",
+    "piaui": "PI",
+    "piauí": "PI",
+    "rio de janeiro": "RJ",
+    "rio grande do norte": "RN",
+    "rio grande do sul": "RS",
+    "rondonia": "RO",
+    "rondônia": "RO",
+    "roraima": "RR",
+    "santa catarina": "SC",
+    "sao paulo": "SP",
+    "são paulo": "SP",
+    "sergipe": "SE",
+    "tocantins": "TO",
+}
+
+CIDADE_UF = {
+    "são paulo": "SP",
+    "sao paulo": "SP",
+    "campinas": "SP",
+    "niterói": "RJ",
+    "niteroi": "RJ",
+    "rio de janeiro": "RJ",
+    "belo horizonte": "MG",
+    "curitiba": "PR",
+    "porto alegre": "RS",
+    "salvador": "BA",
+    "recife": "PE",
+    "fortaleza": "CE",
+    "brasília": "DF",
+    "brasilia": "DF",
+    "florianópolis": "SC",
+    "florianopolis": "SC",
+    "goiânia": "GO",
+    "goiania": "GO",
+}
+
+
+def _normalizar_uf(valor: str) -> str:
+    texto = (valor or "").strip()
+    if not texto:
+        return ""
+    if texto.upper() in UFS:
+        return texto.upper()
+    return NOME_UF.get(texto.casefold(), "")
+
+
+def _uf_no_texto(endereco: str, cidade: str) -> str:
+    match = re.search(r"-\s*([A-Za-z]{2})\b", endereco or "")
+    if match and match.group(1).upper() in UFS:
+        return match.group(1).upper()
+    return CIDADE_UF.get((cidade or "").strip().casefold(), "")
+
+
+def _marcar_presenca(empresa: dict[str, Any]) -> None:
+    site = (empresa.get("site") or "").strip()
+    fonte = (empresa.get("fonte_site") or "").strip()
+    empresa["tem_site"] = bool(site)
+    empresa["site_respondeu"] = fonte.startswith("http")
+    if not empresa.get("estado"):
+        empresa["estado"] = _uf_no_texto(empresa.get("endereco") or "", empresa.get("cidade") or "")
+
+
 def _endereco(tags: dict[str, str]) -> str:
     rua = tags.get("addr:street", "")
     numero = tags.get("addr:housenumber", "")
@@ -393,6 +487,7 @@ def montar_base(elemento: dict[str, Any]) -> dict[str, Any] | None:
         "site": _site(tags),
         "endereco": _endereco(tags),
         "cidade": tags.get("addr:city", ""),
+        "estado": _normalizar_uf(tags.get("addr:state", "")),
         "horario": _horario_legivel(tags.get("opening_hours", "")),
         "redes": _redes(tags),
         "acessibilidade": tags.get("wheelchair", ""),
@@ -736,6 +831,7 @@ def coletar(limite: int = 10) -> list[dict[str, Any]]:
         empresa.pop("paginas_lidas", None)
         empresa["emails_publicos"] = empresa["emails_publicos"][:4]
         empresa["telefones"] = empresa["telefones"][:4]
+        _marcar_presenca(empresa)
     return escolhidas[:limite]
 
 
